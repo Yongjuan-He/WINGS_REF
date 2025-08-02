@@ -17,6 +17,33 @@
 Francisco, 2020, pp. 76–78.
 11.   A. Musa, R. Murakami, T. Sato, W. Chaivipas, K. Okada, and A. Matsuzawa, “A low phase noise quadrature injection locked frequency synthesizer for MM-wave applications,” *IEEE J. Solid-State Circuits*, vol. 46, no. 11, pp. 2635–2649, Nov. 2011.
 12.   F. Piri, M. Bassi, N. R. Lacaita, A. Mazzanti, and F. Svelto, “A PVT-tolerant >40-dB IRR, 44% fractional-bandwidth ultra-wideband mm-wave quadrature LO generator for 5G networks in 55-nm CMOS,” *IEEE J. Solid-State Circuits*, vol. 53, no. 12, pp. 3576–3586, Dec. 2018.
+13.   Z. Lin, H. Jia, W. Deng, Z. Wang and B. Chi, "A Quad-Core Triple-Mode VCO With FoMT Optimization and Automatic-Mode-Tracking Wideband Output Buffers," *in IEEE Transactions on Microwave Theory and Techniques*,2025
+
+14. Y. Shu, H. J. Qian and X. Luo, "17.4 A 18.6-to-40.1GHz 201.7dBc/Hz FoMT Multi-Core Oscillator Using E-M Mixed-Coupling Resonance Boosting," *2020 IEEE International Solid-State Circuits Conference - (ISSCC)*, San Francisco, CA, USA, 2020,
+
+15. A. Rofougaran et al., “A single-chip 900-MHz spread-spectrum wireless transceiver in 1-μm CMOS. I. Architecture and transmitter design,” *IEEE J. Solid-State Circuits*, vol. 33, no. 4, pp. 515–534, Apr. 1998. 
+16.  J. van der Tang, P. van de Ven, D. Kasperkovitz, and A. van Roermund, “Analysis and design of an optimally coupled 5-GHz quadrature LC oscillator,”  *IEEE J. Solid-State Circuits*, vol. 37, no. 5, pp. 657–661, May 2002. 
+17.  M. Elbadry, S. Kalia, and R. Harjani, “A 52% tuning range QVCO with a reduced noise coupling scheme and a minimum FOMT of 196 dBc/Hz,” *in Proc. IEEE Custom Integr. Circuits Conf.*, Sep. 2014, pp. 1–4.
+
+18. T. Xi, S. Guo, P. Gui, D. Huang, Y. Fan, and M. Morgan, “Low-phasenoise 54-GHz transformer-coupled quadrature VCO and 76-/90-GHz VCOs in 65-nm CMOS,” *IEEE Trans. Microw. Theory Techn.*, vol. 64, no. 7, pp. 2091–2103, Jul. 2016.
+
+19. L. Zhang, N.-C. Kuo, and A. M. Niknejad, “A 37.5–45 GHz superharmonic-coupled QVCO with tunable phase accuracy in 28 nm CMOS,” IEEE J. Solid-State Circuits, vol. 54, no. 10, pp. 2754–2764, Oct. 2019.
+20. C.-H. Hong, C.-Y. Wu, and Y.-T. Liao, “Robustness enhancement of a class-C quadrature oscillator using capacitive source degeneration coupling,” *IEEE Trans. Circuits Syst. II, Exp. Briefs*, vol. 62, no. 1, pp. 16–20, Jan. 2015.
+21. H. Jia, B. Chi, and Z. Wang, “An 8.2 GHz triple coupling low-phasenoise class-F QVCO in 65 nm CMOS,” *in Proc. 41st Eur. Solid-State Circuits Conf. (ESSCIRC)*, Sep. 2015, pp. 124–127
+22. D. Murphy, H. Darabi, and H. Wu, “Implicit common-mode resonance in LC oscillators,” *IEEE J. Solid-State Circuits*, vol. 52, no. 3, pp. 812–821, Mar. 2017.
+23. D. Yang et al., "A Harmonic-Mixing PLL Architecture for Millimeter-Wave Application," *in IEEE Journal of Solid-State Circuits*, vol. 57, no. 12, pp. 3552-3566, Dec. 2022,
+
+24. A. Bhat and N. Krishnapura, “Low 1/ f 3 phase noise quadrature LC VCOs,” *IEEE Trans. Circuits Syst. I, Reg. Papers*, vol. 65, pp. 2127–2138, Jul. 2018.
+
+
+25. Y. Hu, “Flicker noise upconversion and reduction mechanisms in RF/millimeter-wave oscillators for 5G communications,” Ph.D. dissertation, School Elect. Electron. Eng., Univ. College Dublin, Dublin, Ireland, 2019. [Online]. Available: http://hdl.handle.net/10197/11459
+
+26. X. Chen, Y. Hu, T. Siriburanon, J. Du, R. B. Staszewski and A. Zhu, "A 30-GHz Class-F Quadrature DCO Using Phase Shifts Between Drain–Gate–Source for Low Flicker Phase Noise and I/Q Exactness,"* in IEEE Journal of Solid-State Circuits*, vol. 58, no. 7, pp. 1945-1958, July 2023
+
+
+
+
+
 ---
 
 *Last updated: [2025/07/30]*
